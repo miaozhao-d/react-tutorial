@@ -1,17 +1,9 @@
-import logo from "./logo.svg";
-import "./App.css";
-
-function App() {
+const Entry = () => {
   return (
-    <div className="App">
+    <>
       <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-      <div></div>
-    </div>
+    </>
   );
-}
+};
 
-export default App;
+export default Entry;
